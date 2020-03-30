@@ -4,9 +4,6 @@
 #kode warna
 MERAH="\033[31;1m"
 HIJAU="\033[32;2m"
-BIRU="\33[0;36"
-KUNING="\33[1;33m"
-HAPUS="\003[0"
 
 #menampilkan menu
 
